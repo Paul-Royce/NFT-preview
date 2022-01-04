@@ -50,7 +50,7 @@ body {
   transition: opacity ease-out 250ms;
 }
 
-.card:hover #eye-icon {
+.img-container:hover #eye-icon {
     opacity: 1;
   }
 
